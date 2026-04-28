@@ -26,5 +26,5 @@ consumes: {
 }
 
 outputLiquids: [
-    hydrogen-peroxide/2.0
+    hydrogen-peroxide/0.03333333333
 ]
