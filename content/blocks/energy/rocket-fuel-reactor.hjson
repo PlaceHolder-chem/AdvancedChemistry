@@ -15,14 +15,14 @@ hasPower: true
 hasLiquids: true
 liquidCapacity: 60
 itemDuration: 60
-powerProduction: 13
+powerProduction: 14
 consumes: {
     liquids: [
-        rocket-fuel/3
+        rocket-fuel/0.05
     ]
 }
     
-outputLiquid: water/1.0
+outputLiquid: water/0.01666666666
 
 explodeOnFull: false
 
