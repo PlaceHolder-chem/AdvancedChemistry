@@ -17,7 +17,7 @@ craftTime: 90
 
 consumes: {
     liquids: [
-        methane/1.0
+        methane/0.01111111111
     ]
     power: 4.0
 }
@@ -26,5 +26,5 @@ outputItems: [
     carbon/1
 ]
 outputLiquids: [
-    hydrogen/2.0
+    hydrogen/0.02222222222
 ]
