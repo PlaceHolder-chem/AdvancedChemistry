@@ -19,7 +19,7 @@ consumes: {
         carbon/4
     ]
     liquids: [
-        arkycite/2
+        arkycite/0.01111111111
     ]
     power: 8.0
 }

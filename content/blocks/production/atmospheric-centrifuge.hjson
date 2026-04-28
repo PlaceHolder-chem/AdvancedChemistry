@@ -17,6 +17,6 @@ consumes: {
 }
 
 outputLiquids: [
-    sulfur-dioxide/2.0
-    methane/2.0
+    sulfur-dioxide/0.033333
+    methane/0.033333
 ]

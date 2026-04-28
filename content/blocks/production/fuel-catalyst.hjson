@@ -17,7 +17,7 @@ craftTime: 60
 
 consumes: {
     liquids: [
-        rocket-fuel/3.0
+        rocket-fuel/0.05
     ]
     items: [
         silver/1

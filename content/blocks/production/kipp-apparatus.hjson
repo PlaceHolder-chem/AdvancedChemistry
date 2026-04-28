@@ -13,14 +13,14 @@ hasItems: true
 hasLiquids: true
 itemCapacity: 20
 liquidCapacity: 60
-craftTime: 80
+craftTime: 240
 
 consumes: {
     items: [
         pyrite/2
     ]
     liquids: [
-        hydrochloric-acid/2.0
+        hydrochloric-acid/0.00833333333
     ]
 }
 
@@ -28,7 +28,7 @@ outputItems: [
     iron-chloride/1
 ]
 outputLiquids: [
-    hydrogen-sulfide/1.5
+    hydrogen-sulfide/0.00625
 ]
 
 craftEffect: pulverize

@@ -11,16 +11,16 @@ health: 450
 hasPower: true
 hasLiquids: true
 liquidCapacity: 80
-craftTime: 70
+craftTime: 120
 
 consumes: {
     liquids: [
-        sulfur-dioxide/1.5
-        hydrogen-peroxide/1.5
+        sulfur-dioxide/0.0125
+        hydrogen-peroxide/0.0125
     ]
     power: 4.0
 }
 
 outputLiquids: [
-    sulfuric-acid/2.0
+    sulfuric-acid/0.01666666666
 ]

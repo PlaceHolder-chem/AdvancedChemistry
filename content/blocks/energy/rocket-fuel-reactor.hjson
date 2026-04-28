@@ -1,4 +1,4 @@
-type: PowerGenerator
+type: ConsumeGenerator
 name: rocket-fuel-reactor
 category: power
 
@@ -14,24 +14,17 @@ health: 800
 hasPower: true
 hasLiquids: true
 liquidCapacity: 60
-
-powerProduction: 820
-
+itemDuration: 60
+powerProduction: 13
 consumes: {
     liquids: [
-        rocket-fuel/1.5
+        rocket-fuel/3
     ]
 }
-
+    
 outputLiquid: water/1.0
 
 explodeOnFull: false
-
-generateEffect: combust
-generateEffectChance: 0.1
-updateEffect: smoke
-updateEffectChance: 0.05
-craftSound: spray
 
 explosionRadius: 12
 explosionDamage: 250

@@ -17,8 +17,8 @@ craftTime: 120
 
 consumes: {
     liquids: [
-        sulfur-dioxide/2.0
-        methane/1.0
+        sulfur-dioxide/0.01666
+        methane/0.0083333
     ]
     power: 5.0
 }

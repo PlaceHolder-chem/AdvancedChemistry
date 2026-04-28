@@ -27,7 +27,7 @@ consumes: {
         mineral/8
     ]
     liquids: [
-        water/4.0
+        water/0.1
     ]
     power: 15.0
 }

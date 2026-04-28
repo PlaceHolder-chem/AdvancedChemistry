@@ -11,19 +11,19 @@ health: 450
 hasPower: true
 hasLiquids: true
 liquidCapacity: 80
-craftTime: 70
+craftTime: 60
 
 consumes: {
     items: [
         salt/4.0
     ]
     liquids: [
-        water/8.0
+        water/0.13333333333
     ]
     power: 8.0
 }
 
 outputLiquids: [
-    chlorine/3.0
-    sodium-hydroxide/2.0
+    chlorine/0.05
+    sodium-hydroxide/0.03333333333
 ]
