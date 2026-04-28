@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: salt-electrolyzer
+category: crafting
+requirements: [
+    carbide/90
+    silicon/120
+    beryllium/70
+]
+size: 3
+health: 450
+hasPower: true
+hasLiquids: true
+liquidCapacity: 80
+craftTime: 70
+
+consumes: {
+    items: [
+        salt/4.0
+    ]
+    liquids: [
+        water/8.0
+    ]
+    power: 8.0
+}
+
+outputLiquids: [
+    chlorine/3.0
+    sodium-hydroxide/2.0
+]

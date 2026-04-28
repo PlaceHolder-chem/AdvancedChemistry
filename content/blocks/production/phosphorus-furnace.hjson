@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: phosphorus-furnace
+category: crafting
+requirements: [
+    tungsten/120
+    silicon/180
+    beryllium/100
+    carbide/50
+]
+size: 3
+health: 600
+hasPower: true
+hasItems: true
+itemCapacity: 30
+craftTime: 150
+
+consumes: {
+    items: [
+        apatite/3
+        sand/4
+        silicon/2
+    ]
+    power: 12.0
+}
+
+outputItems: [
+    white-phosphorus/2
+]

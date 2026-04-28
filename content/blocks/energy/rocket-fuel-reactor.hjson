@@ -1,0 +1,38 @@
+type: PowerGenerator
+name: rocket-fuel-reactor
+category: power
+
+requirements: [
+    tungsten/150
+    beryllium/120
+    silicon/200
+    tungsten-alloy/50
+]
+
+size: 3
+health: 800
+hasPower: true
+hasLiquids: true
+liquidCapacity: 60
+
+powerProduction: 820
+
+consumes: {
+    liquids: [
+        rocket-fuel/1.5
+    ]
+}
+
+outputLiquid: water/1.0
+
+explodeOnFull: false
+
+generateEffect: combust
+generateEffectChance: 0.1
+updateEffect: smoke
+updateEffectChance: 0.05
+craftSound: spray
+
+explosionRadius: 12
+explosionDamage: 250
+explosionShake: 8.0

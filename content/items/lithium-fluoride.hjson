@@ -1,0 +1,6 @@
+type: material
+name: lithium-fluoride
+color: d4f1f9
+explosiveness: 0.0
+flammability: 0.0
+cost: 1.5

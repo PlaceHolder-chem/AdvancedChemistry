@@ -1,0 +1,6 @@
+type: material
+name: salt
+color: ffffff
+explosiveness: 0.0
+flammability: 0.0
+cost: 0.5

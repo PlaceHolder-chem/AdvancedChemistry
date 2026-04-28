@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: sintering-furnace
+category: crafting
+requirements: [
+    graphite/100
+    silicon/150
+    beryllium/100
+    tungsten/80
+]
+size: 3
+health: 450
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 24
+liquidCapacity: 40
+craftTime: 120
+
+consumes: {
+    items: [
+        tungsten/4
+        beryllium/8
+    ]
+    liquids: [
+        oxygen/0.1
+    ]
+    power: 5.0
+}
+
+outputItems: [
+    tungsten-alloy/2
+]

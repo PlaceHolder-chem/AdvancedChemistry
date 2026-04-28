@@ -1,0 +1,9 @@
+type: liquid
+name: rocket-fuel
+color: ff0055
+flammability: 1.2
+explosiveness: 1.5
+temperature: 0.2
+heatCapacity: 0.5
+viscosity: 0.3
+gas: false

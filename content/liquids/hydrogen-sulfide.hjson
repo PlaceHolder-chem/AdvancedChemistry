@@ -1,0 +1,9 @@
+type: liquid
+name: hydrogen-sulfide
+color: dd9966
+gas: true
+flammability: 0.8
+explosiveness: 0.3
+heatCapacity: 0.4
+viscosity: 0.02
+temperature: 0.1

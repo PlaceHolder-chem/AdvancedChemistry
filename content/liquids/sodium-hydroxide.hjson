@@ -1,0 +1,9 @@
+type: liquid
+name: sodium-hydroxide
+color: aaaaff
+gas: false
+flammability: 0.0
+explosiveness: 0.0
+heatCapacity: 0.7
+viscosity: 0.5
+temperature: 0.2

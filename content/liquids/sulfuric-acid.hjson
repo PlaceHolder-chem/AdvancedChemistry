@@ -1,0 +1,9 @@
+type: liquid
+name: sulfuric-acid
+color: ccaaff
+gas: false
+flammability: 0.0
+explosiveness: 0.4
+heatCapacity: 0.6
+viscosity: 0.8
+temperature: 0.1

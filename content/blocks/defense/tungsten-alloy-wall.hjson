@@ -1,0 +1,14 @@
+type: Wall
+name: tungsten-alloy-wall
+category: defense
+requirements: [
+    tungsten-alloy/6
+]
+size: 1
+health: 1080
+armor: 15
+
+destrEffect: shrapnel
+destrSound: explosion
+
+healing: 3

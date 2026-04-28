@@ -1,0 +1,6 @@
+type: material
+name: carbone
+color: 2c2c2c
+explosiveness: 0.0
+flammability: 0.0
+cost: 3.0

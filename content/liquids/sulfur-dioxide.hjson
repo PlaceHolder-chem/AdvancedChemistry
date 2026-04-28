@@ -1,0 +1,9 @@
+type: liquid
+name: sulfur-dioxide
+color: cc8855
+gas: true
+flammability: 0.0
+explosiveness: 0.0
+heatCapacity: 0.4
+viscosity: 0.02
+temperature: 0.2

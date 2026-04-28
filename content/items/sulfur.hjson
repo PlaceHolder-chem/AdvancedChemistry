@@ -1,0 +1,6 @@
+type: material
+name: sulfur
+color: e6c800
+explosiveness: 0.4
+flammability: 0.6
+cost: 1.0

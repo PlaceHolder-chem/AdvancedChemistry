@@ -1,0 +1,6 @@
+type: material
+name: white-phosphorus
+color: ffddaa
+explosiveness: 1.0
+flammability: 2.0
+cost: 2.0

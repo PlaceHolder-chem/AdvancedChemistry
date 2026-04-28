@@ -1,0 +1,31 @@
+type: GenericCrafter
+name: sulfur-reducer
+category: crafting
+requirements: [
+    graphite/120
+    silicon/100
+    beryllium/80
+]
+size: 3
+health: 500
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 20
+liquidCapacity: 80
+craftTime: 120
+
+consumes: {
+    liquids: [
+        sulfur-dioxide/2.0
+        methane/1.0
+    ]
+    power: 5.0
+}
+
+outputItems: [
+    sulfur/2
+]
+outputLiquids: [
+    water/1.0
+]

@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: peroxide-lab
+category: crafting
+requirements: [
+    carbide/90
+    silicon/120
+    beryllium/70
+]
+size: 3
+health: 450
+hasPower: true
+hasLiquids: true
+liquidCapacity: 80
+craftTime: 70
+
+consumes: {
+    liquids: [
+        sulfur-dioxide/1.5
+        hydrogen-peroxide/1.5
+    ]
+    power: 4.0
+}
+
+outputLiquids: [
+    sulfuric-acid/2.0
+]

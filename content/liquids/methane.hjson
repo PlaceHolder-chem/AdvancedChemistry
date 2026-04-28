@@ -1,0 +1,9 @@
+type: liquid
+name: methane
+color: 66ccaa
+gas: true
+flammability: 0.9
+explosiveness: 0.5
+heatCapacity: 0.5
+viscosity: 0.01
+temperature: 0.0

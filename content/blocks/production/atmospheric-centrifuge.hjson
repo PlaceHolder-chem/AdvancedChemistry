@@ -1,0 +1,22 @@
+type: GenericCrafter
+name: atmospheric-centrifuge
+category: crafting
+requirements: [
+    silicon/150
+    beryllium/80
+]
+size: 3
+health: 450
+hasPower: true
+hasLiquids: true
+liquidCapacity: 120
+craftTime: 60
+
+consumes: {
+    power: 12.0
+}
+
+outputLiquids: [
+    sulfur-dioxide/2.0
+    methane/2.0
+]

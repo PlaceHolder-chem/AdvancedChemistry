@@ -1,0 +1,44 @@
+type: Separator
+name: mineral-disassembler
+category: crafting
+
+requirements: [
+    tungsten/150
+    silicon/200
+    beryllium/450
+    carbide/80
+    oxide/40
+    tungsten-alloy/100
+]
+
+size: 5
+health: 1200
+
+hasPower: true
+hasLiquids: true
+hasItems: true
+
+itemCapacity: 40
+liquidCapacity: 200
+craftTime: 150
+
+consumes: {
+    items: [
+        mineral/8
+    ]
+    liquids: [
+        water/4.0
+    ]
+    power: 15.0
+}
+
+results: [
+    { item: salt, amount: 3, weight: 3 }
+    { item: pyrite, amount: 2, weight: 2 }
+    { item: apatite, amount: 2, weight: 2 }
+    { item: aluminum-oxide, amount: 1, weight: 2 }
+    { item: lead-oxide, amount: 1, weight: 2 }
+    { item: zinc-chloride, amount: 1, weight: 2 }
+    { item: lithium-fluoride, amount: 1, weight: 2 }
+    { item: silver, amount: 1, weight: 1 }
+]

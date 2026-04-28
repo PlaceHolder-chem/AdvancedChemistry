@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: ozone-destructor
+category: crafting
+requirements: [
+    graphite/50
+    silicon/80
+    beryllium/150
+    tungsten/60
+]
+
+size: 3
+health: 300
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 24
+liquidCapacity: 12
+craftTime: 120
+
+consumes: {
+    items: [
+        silicon/8
+    ]
+    liquids: [
+        ozone/0.03
+    ]
+    power: 2.0
+}
+
+outputLiquids: [
+    oxygen/0.06
+]

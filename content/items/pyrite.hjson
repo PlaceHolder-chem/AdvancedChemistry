@@ -1,0 +1,6 @@
+type: material
+name: pyrite
+color: b87333
+explosiveness: 0.1
+flammability: 0.0
+cost: 1.0

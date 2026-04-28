@@ -1,0 +1,30 @@
+type: GenericCrafter
+name: methane-pyrolyzer
+category: crafting
+requirements: [
+    tungsten/80
+    silicon/120
+    beryllium/60
+]
+size: 3
+health: 400
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 20
+liquidCapacity: 60
+craftTime: 90
+
+consumes: {
+    liquids: [
+        methane/1.0
+    ]
+    power: 4.0
+}
+
+outputItems: [
+    carbon/1
+]
+outputLiquids: [
+    hydrogen/2.0
+]

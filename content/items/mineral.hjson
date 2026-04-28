@@ -1,0 +1,6 @@
+type: material
+name: mineral
+color: 8b5a2b
+explosiveness: 0.0
+flammability: 0.0
+cost: 0.8

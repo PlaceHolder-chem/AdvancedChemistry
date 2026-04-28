@@ -1,0 +1,6 @@
+type: material
+name: carbon
+color: 4a4a4a
+explosiveness: 0.0
+flammability: 0.2
+cost: 1.0

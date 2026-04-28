@@ -1,0 +1,9 @@
+type: liquid
+name: oxygen
+color: 66ffff
+gas: true
+flammability: 0.8
+explosiveness: 0.5
+temperature: 0.1
+heatCapacity: 0.8
+viscosity: 0.5

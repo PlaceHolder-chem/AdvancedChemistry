@@ -1,0 +1,30 @@
+type: GenericCrafter
+name: fuel-catalyst
+category: crafting
+requirements: [
+    tungsten/120
+    silicon/150
+    silver/30
+]
+size: 3
+health: 500
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 20
+liquidCapacity: 60
+craftTime: 60
+
+consumes: {
+    liquids: [
+        rocket-fuel/3.0
+    ]
+    items: [
+        silver/1
+    ]
+    power: 5.0
+}
+
+outputLiquids: [
+    hydrogen-peroxide/2.0
+]

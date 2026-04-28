@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: fuel-mixer
+category: crafting
+requirements: [
+    silicon/60
+    beryllium/40
+    tungsten/40
+]
+size: 3
+health: 250
+hasPower: true
+hasLiquids: true
+liquidCapacity: 12
+craftTime: 60
+
+consumes: {
+    liquids: [
+        oxygen/0.05
+        hydrogen/0.05
+    ]
+    power: 3.0
+}
+
+outputLiquids: [
+    rocket-fuel/0.02
+]
