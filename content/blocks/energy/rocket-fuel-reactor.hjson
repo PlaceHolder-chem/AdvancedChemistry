@@ -19,9 +19,11 @@ itemDuration: 60.0
 powerProduction: 24
 
 consumes: {
-  liquids: [
-    { liquid: rocket-fuel, amount: 0.01111111111 }
-  ]
+    liquids: [
+        rocket-fuel/0.06666666666
+    ]
 }
 
-outputLiquid: { liquid: water, amount: 0.01666666666 }
+outputLiquid: [
+    water/0.0.01666666666
+]
