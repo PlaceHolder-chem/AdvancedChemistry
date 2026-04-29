@@ -24,6 +24,6 @@ consumes: {
     ]
 }
 
-outputLiquid: [
-    water/0.0.01666666666
+outputLiquids: [
+    water/0.01666666666
 ]
