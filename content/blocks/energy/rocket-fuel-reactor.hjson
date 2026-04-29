@@ -3,10 +3,10 @@ name: rocket-fuel-reactor
 category: power
 
 requirements: [
-    tungsten/150
-    beryllium/120
-    silicon/200
-    tungsten-alloy/50
+  tungsten/150
+  beryllium/120
+  silicon/200
+  tungsten-alloy/50
 ]
 
 size: 3
@@ -16,17 +16,12 @@ hasLiquids: true
 liquidCapacity: 60
 itemDuration: 60.0
 
-powerProduction: 14
+powerProduction: 24
 
-filterLiquid: {
-liquid: "water"
-    mount: 4.0
+consumes: {
+  liquids: [
+    { liquid: rocket-fuel, amount: 0.01111111111 }
+  ]
 }
 
-outputLiquid: water/0.01666666666
-
-explodeOnFull: false
-
-explosionRadius: 12
-explosionDamage: 250
-explosionShake: 8.0
+outputLiquid: { liquid: water, amount: 0.01666666666 }
