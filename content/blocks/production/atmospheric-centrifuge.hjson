@@ -20,3 +20,8 @@ outputLiquids: [
     sulfur-dioxide/0.033333
     methane/0.033333
 ]
+
+liquidOutputDirections: [
+    2
+    0
+]
