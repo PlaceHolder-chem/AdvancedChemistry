@@ -19,6 +19,10 @@
 1. Скачай последнюю версию мода как ZIP-архив.
 2. Помести архив в папку `mods` Mindustry.
 3. Запусти игру и активируй мод в меню "Моды".
+
+ИЛИ
+Скачай через браузер модов в игре.
+
 ---
 
 ## 🇬🇧 English
@@ -33,6 +37,9 @@ Sprites will be updated in the near future.
 1. Download the latest version of the mod as a ZIP archive.
 2. Place the archive in the `mods` folder of Mindustry.
 3. Launch the game and activate the mod in the "Mods" menu.
+
+OR
+Download from game mod browser
 
 ---
 
