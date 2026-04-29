@@ -1,6 +1,6 @@
 # Advanced Chemistry
 
-[![Mod Version](https://img.shields.io/badge/version-1.0.2-orange)](https://github.com/PlaceHolder/advanced-chemistry)
+[![Mod Version](https://img.shields.io/badge/version-1.0.3-orange)](https://github.com/PlaceHolder/advanced-chemistry)
 [![Mindustry Version](https://img.shields.io/badge/Mindustry-157.4-blue)](https://github.com/Anuken/Mindustry)
 
 **Advanced Chemistry** — мод для Mindustry, добавляющий новые химические технологии и производственные цепочки на планету **Эрекир**.
@@ -50,6 +50,7 @@ Download from game mod browser
 | 1.0.0 | Initial beta release. Basic chemical production chain. |
 | 1.0.1 | Fixed Alot bugs related to liquids. |
 | 1.0.2 | Added some sprites. |
+| 1.0.3 | fixs balance changes |
 
 ---
 

@@ -27,3 +27,8 @@ outputLiquids: [
     chlorine/0.05
     sodium-hydroxide/0.03333333333
 ]
+
+liquidOutputDirections: [
+    2
+    0
+]
