@@ -17,13 +17,13 @@ craftTime: 100
 
 consumes: {
     liquids: [
-        hydrogen/0.01
-        chlorine/0.01
-        water/0.01
+        hydrogen/0.02
+        chlorine/0.02
+        water/0.02
     ]
     power: 5.0
 }
 
 outputLiquids: [
-    hydrochloric-acid/2.0
+    hydrochloric-acid/0.02
 ]
